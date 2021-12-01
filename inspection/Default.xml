@@ -13,6 +13,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="dict.__setitem__" />
+        <option value="discord.ext.commands.bot.Bot.config" />
       </list>
     </option>
   </inspection_tool>
